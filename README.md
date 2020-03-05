@@ -1,1 +1,1 @@
-# testGitAlphaRebase aaafasdfvxcv
+# testGitBetaRebase bbdfasdfvxcv
